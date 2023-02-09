@@ -1,2 +1,2 @@
 ## ALX School
-This is a non blank README
+ALX School is so cool!
